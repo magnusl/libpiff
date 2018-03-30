@@ -1,2 +1,2 @@
 # libpiff
-Protected Interoperable File Format (PIFF) parser
+Prototype parser for the Protected Interoperable File Format (PIFF). Not feature complete.
